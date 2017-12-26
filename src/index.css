@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color:  #2F171E;
+  background: #fff;
+}
+
+h1, h2{
+  font-family: 'Merriweather', serif;
+}
+
+p, span{
+  font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+h2{
+  font-size: 24px;
+}
+
+p{
+  font-size: 16px;
+  line-height: 20px;
+}
+
+span{
+  font-size: 12px
+}
+
+
